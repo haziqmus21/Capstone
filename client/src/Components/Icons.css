@@ -1,0 +1,90 @@
+.specilities{
+    display: flex;
+    justify-content: center;
+    /* background-color: #f7f7f7; */
+  }
+   .sp-inner{
+    width: 80%;
+    box-shadow:  1px 1px 7px 1px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    background-color: #fff;
+    margin: 10px 0px;
+    padding: 20px 0px;
+    border-radius: 3px;
+  }
+  .circles{
+    display: flex;
+    justify-content: space-between;
+    justify-content: space-around;
+    display: inline-block;
+  }
+  .specialist-doc{
+    margin-top: 40px;
+  }
+  .circles > a > img{
+    height: 30px;
+    width: 30px;
+    
+  }
+  .circles > .cir-name{
+    background-color: #0b65af;
+    border-radius: 50%;
+    height: 60px;
+    text-align: center;
+    margin: 0px 40px;
+    margin-bottom: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 60px;
+   
+    
+  }
+  .circles > .cir-name:hover{
+    box-shadow: 1px 1px 7px 1px #0b65af;
+    
+  
+  }
+  .circles > .text{
+    color: black;
+    
+  
+    text-decoration: none;
+  }
+  .circles > .text:hover{
+    color: #0b65af;
+    font-weight: bold;
+  }
+  /* .circles > .text > p{
+    border: 2px solid red;
+    width: 80%;
+  } */
+  
+  
+  
+  
+  /* /////////spciality-close */
+  
+  
+  
+  
+  
+  /* ////////disease-open */
+  
+  
+  
+  .disease{
+    display: flex;
+    justify-content: center;
+    /* background-color: #f7f7f7; */
+  }
+  @media (max-width:1063px) {
+    .sp-inner{
+      width: 100% !important;
+    }
+  }
+  
+  
+  
+  
+  /* //////////disease-close */

@@ -1,0 +1,12 @@
+.fd{
+    /* background-color: #ffc107; */
+    background-color: #222;
+    color: bisque;
+    padding-top: 20px;
+}
+.text-reset{
+    text-decoration: none;
+}
+.text-reset:hover{
+    text-decoration: underline;
+}

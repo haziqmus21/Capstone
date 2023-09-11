@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.23a1cb3b.css",
+    "main.js": "/static/js/main.d8932d80.js",
+    "static/js/787.d3befce1.chunk.js": "/static/js/787.d3befce1.chunk.js",
+    "static/media/bruno-rodrigues-279xIHymPYY-unsplash.jpg": "/static/media/bruno-rodrigues-279xIHymPYY-unsplash.b4f2a778c818d705b61b.jpg",
+    "static/media/home.jpg": "/static/media/home.2cb5ba5b78f613567c4e.jpg",
+    "static/media/images-removebg-preview.png": "/static/media/images-removebg-preview.f1e590d4ccd69cd9b9b9.png",
+    "static/media/student.webp": "/static/media/student.2bba4bfd4f2ecf70b62a.webp",
+    "static/media/clear-sky.png": "/static/media/clear-sky.de2a70f428a33bda73d6.png",
+    "static/media/lloogo.png": "/static/media/lloogo.391f9275207b322a7c73.png",
+    "static/media/sunny.png": "/static/media/sunny.aaf8be891f850a514929.png",
+    "static/media/crown.png": "/static/media/crown.c4384d7ac2435e4ad865.png",
+    "static/media/download2.png": "/static/media/download2.23cc6c3bf2b2aaa21672.png",
+    "static/media/download (8).jfif": "/static/media/download (8).e5f78f54c4d13b8e403c.jfif",
+    "static/media/download (4).jfif": "/static/media/download (4).5dd46ccb1b3243eb4aec.jfif",
+    "index.html": "/index.html",
+    "main.23a1cb3b.css.map": "/static/css/main.23a1cb3b.css.map",
+    "main.d8932d80.js.map": "/static/js/main.d8932d80.js.map",
+    "787.d3befce1.chunk.js.map": "/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23a1cb3b.css",
+    "static/js/main.d8932d80.js"
+  ]
+}
